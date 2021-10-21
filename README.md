@@ -9,11 +9,11 @@ SO THAT I can organize and plan my business
 ```
 
 ## Instructions
-
+```
 Clone from GitHub
 Run npm install inquirer & npm install mysql2
 Then run node server.js
-
+```
 ## Description
 
 A SQL database that tracks employees, their roles, and their respective department.
