@@ -11,7 +11,7 @@ INSERT INTO role (title, salary, department_id) VALUES ("Social Media Manager", 
 INSERT INTO role (title, salary, department_id) VALUES ("Director", 100, 1);
 
 
-INSERT INTO employee (first_name, last_name, role_id) VALUES ("David", "Jester", 2);
-INSERT INTO employee (first_name, last_name, role_id) VALUES ("Abby", "Whiteman", 1);
-INSERT INTO employee (first_name, last_name, role_id) VALUES ("Katie", "Pieto", 3);
-INSERT INTO employee (first_name, last_name, role_id) VALUES ("Rachael", "Squirm", 4);
+INSERT INTO employee (first_name, last_name, role_id) VALUES ("Kiara", "Jitu", 2);
+INSERT INTO employee (first_name, last_name, role_id) VALUES ("Jim", "Smith", 1);
+INSERT INTO employee (first_name, last_name, role_id) VALUES ("Michael", "Conty", 3);
+INSERT INTO employee (first_name, last_name, role_id) VALUES ("Kelly", "Ditu", 4);
